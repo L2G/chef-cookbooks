@@ -1,2 +1,10 @@
 This is a home for Chef cookbooks that I maintain for the Opscode Chef
 community (or at least intend to maintain).
+
+Each cookbook will be in at least one branch of its own, but usually two:
+one for the released version, the other for the dev version being worked on.
+
+Branches
+========
+
+* timezone-ii_dev - Fork of the timezone cookbook; not yet released
